@@ -15,6 +15,7 @@ O cálculo do consumo mensal segue a seguinte fórmula:
 $$Consumo (kWh) = \frac{Potência (W) \times Uso Diário (h) \times 30 dias}{1000}$$
 
 O custo total é calculado multiplicando o consumo pela tarifa:
+
 $$Custo = Consumo \times Tarifa (R\$ 0,70)$$
 
 ---
